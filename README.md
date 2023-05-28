@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portofolio-as.netlify.app/](https://portofolio-as.netlify.app/)
 
-- 💬 Ask me about **my services**
+- 💬 Ask me about **my services.**
 
 - 📫 How to reach me **szaboalexandru2005@gmail.com**
 
