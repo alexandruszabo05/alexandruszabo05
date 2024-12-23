@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandruszabo05&label=Profile%20views&color=0e75b6&style=flat" alt="alexandruszabo05" /> </p>
 
-- 👨‍💻 All of my projects are available at [(PORTOFOLIO IN PROGRESS))
+- 👨‍💻 All of my projects are available at [PORTOFOLIO IN PROGRESS]
 
 - 💬 Ask me about **my services.**
 
