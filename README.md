@@ -2,7 +2,9 @@
 <h1 align="center">Alexandru Szabo</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
+<p align="center">
 🚀 Passionate about building fast, responsive UIs with modern tools.
+</p>
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -12,5 +14,5 @@
 
 ## 📫 Reach out
 
-- ✉️ Email: szaboalexandru2005@gmail.com
-- 🌐 Portfolio (soon)
+ ✉️ Email: szaboalexandru2005@gmail.com
+ 🌐 Portfolio (soon)
