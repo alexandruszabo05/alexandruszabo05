@@ -9,6 +9,5 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## 📫 Reach out
-
- ✉️ Email: szaboalexandru2005@gmail.com
- 🌐 Portfolio (soon)
+ <li>✉️ Email: szaboalexandru2005@gmail.com</li>
+ <li>🌐 Portfolio (soon)</li>
