@@ -10,4 +10,4 @@
 
 ## Reach out
  <li> Email: szaboalexandru2005@gmail.com</li>
- <li> alex-szabo.dev</li>
+ <li> Portfolio: https://alex-szabo.dev</li>
